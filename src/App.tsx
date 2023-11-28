@@ -31,9 +31,9 @@ const posts: PostType[] = [
   {
     id: 2,
     author: {
-      avatarUrl: "https://github.com/maykbrito.png",
-      name: "Mayk Brito",
-      role: "Educator @Rocketseat",
+      avatarUrl: "https://github.com/gabrielsouzaleite.png",
+      name: "Gabriel Leite",
+      role: "Analista de Sistemas",
     },
     content: [
       { type: "paragraph", content: "Fala galeraa 👋" },
